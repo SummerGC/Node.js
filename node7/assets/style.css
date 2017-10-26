@@ -1,0 +1,14 @@
+		body{
+			background: skyblue;
+			color: #fff;
+			padding: 30px;
+		}
+		h1{
+			font-size: 46px;
+			letter-spacing: 2px;
+			text-align: center;
+		}
+		p{
+			text-align: center;
+			font-size: 16px;
+		}
